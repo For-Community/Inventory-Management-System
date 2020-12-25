@@ -1,0 +1,12 @@
+﻿CUSTOMER NAME,Testing
+CUSTOMER CONTACT,999
+
+PRODUCT NAME,QUANTITY,RATE(₹),TOTAL(₹)
+"Set Wet Hair Gel Cool, 50ml",10,₹ 50.5,₹ 505.0
+"Set Wet Hair Gel Cool, 50ml",20,₹ 50.5,₹ 1010.0
+"Fair & Lovely Women, 50g",50,₹ 97.0,₹ 4850.0
+"Nivea Lip Balm, 4.8g",140,₹ 105.0,₹ 14700.0
+testing,1,₹ 1.0,₹ 10.0
+testing,1,₹ 10.0,₹ 10.0
+
+TOTAL,,,₹ 21085.0

@@ -1,0 +1,24 @@
+Login 5 times
+
+
+History
+dark mode
+radio button great good poor damaged
+
+GUI
+all items
+category 
+sub category
+brand 
+product
+sqlite3
+history save to location
+
+mode of payment
+history + save as txt
+remember me in login id
+dark mode
+mail
+
+if without login click on purchase or sale >> pls login and proceed
+login attempt and exit maibi w8ng 5 min

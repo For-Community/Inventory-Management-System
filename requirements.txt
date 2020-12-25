@@ -1,0 +1,1 @@
+pyscreenshot==2.2
